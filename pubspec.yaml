@@ -41,6 +41,7 @@ dependencies:
   # ^4.0.0 : 4.0.0 <= (   ) < 5.0.0 이 사이의 버전을 사용하겠다는 의미..
   # 다운로드 및 적용을 위해.. 등록한 후 pub get 클릭..
 #  english_words: ^4.0.0
+  font_awesome_flutter: ^11.0.0
 
 dev_dependencies:
   flutter_test:

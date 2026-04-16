@@ -42,6 +42,7 @@ dependencies:
   # 다운로드 및 적용을 위해.. 등록한 후 pub get 클릭..
 #  english_words: ^4.0.0
   font_awesome_flutter: ^11.0.0
+  fluttertoast: ^9.0.0
 
 dev_dependencies:
   flutter_test:
